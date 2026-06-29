@@ -1,0 +1,62 @@
+baseURL = "http://localhost:1313/"
+languageCode = "zh-cn"
+title = "czyblog"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+env = "production"
+title = "czyblog"
+description = "我的技术与思考记录"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+
+[params.homeInfoParams]
+Title = "欢迎来到 czyblog"
+Content = "记录学习 / 技术 / 思考"
+
+# 社交（可先留空）
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/"
+
+# 菜单（关键：分类入口）
+[menu]
+[[menu.main]]
+identifier = "home"
+name = "首页"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "文章"
+url = "/posts/"
+weight = 20
+
+[[menu.main]]
+identifier = "categories"
+name = "分类"
+url = "/categories/"
+weight = 30
+
+[[menu.main]]
+identifier = "tags"
+name = "标签"
+url = "/tags/"
+weight = 40
+
+[[menu.main]]
+identifier = "about"
+name = "关于"
+url = "/about/"
+weight = 50

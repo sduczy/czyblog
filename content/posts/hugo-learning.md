@@ -1,0 +1,9 @@
+---
+title: "Hugo 学习"
+date: 2026-06-29
+draft: false
+categories: ["技术"]
+tags: ["Hugo"]
+---
+
+今天开始学习 Hugo 博客系统，这是我的第一篇正式文章。
