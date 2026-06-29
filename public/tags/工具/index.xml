@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>工具 on czyblog</title>
-    <link>http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/</link>
-    <description>Recent content in 工具 on czyblog</description>
-    <generator>Hugo</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo 学习</title>
-      <link>http://localhost:1313/posts/hugo-learning/</link>
-      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo-learning/</guid>
-      <description>&lt;p&gt;今天开始学习 Hugo 博客系统，这是我的第一篇正式文章。&lt;/p&gt;
-&lt;h1 id=&#34;hugo介绍&#34;&gt;hugo介绍&lt;/h1&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>工具 on czyblog</title><link>https://sduczy.github.io/czyblog/tags/%E5%B7%A5%E5%85%B7/</link><description>Recent content in 工具 on czyblog</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sduczy.github.io/czyblog/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo 学习</title><link>https://sduczy.github.io/czyblog/posts/hugo-learning/</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://sduczy.github.io/czyblog/posts/hugo-learning/</guid><description>&lt;p&gt;今天开始学习 Hugo 博客系统，这是我的第一篇正式文章。&lt;/p&gt;
+&lt;h1 id="hugo介绍"&gt;hugo介绍&lt;/h1&gt;</description></item></channel></rss>
